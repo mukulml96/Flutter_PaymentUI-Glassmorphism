@@ -70,7 +70,7 @@ class _GlassMorphismState extends State<GlassMorphism> {
                 ],
               ),
             ),
-            SizedBox(height:20),
+            SizedBox(height: 20),
             Padding(
               padding: const EdgeInsets.fromLTRB(25, 0, 25, 30),
               child: Container(
@@ -186,8 +186,7 @@ class _GlassMorphismState extends State<GlassMorphism> {
                                       style: TextStyle(
                                           fontSize: 20,
                                           fontWeight: FontWeight.normal,
-                                          color:
-                                              Colors.white.withOpacity(0.6)),
+                                          color: Colors.white.withOpacity(0.6)),
                                     ),
                                     Image.asset('assets/images/rfid.png',
                                         height: 30),
@@ -203,10 +202,9 @@ class _GlassMorphismState extends State<GlassMorphism> {
                                     Text(
                                       "Debit Card",
                                       style: TextStyle(
-                                          fontSize: 15,
+                                          fontSize: 13,
                                           fontWeight: FontWeight.normal,
-                                          color:
-                                              Colors.white.withOpacity(0.8)),
+                                          color: Colors.white.withOpacity(0.5)),
                                     ),
                                   ],
                                 ),
@@ -219,8 +217,7 @@ class _GlassMorphismState extends State<GlassMorphism> {
                                       style: TextStyle(
                                           fontSize: 20,
                                           fontWeight: FontWeight.w900,
-                                          color:
-                                              Colors.white.withOpacity(0.8)),
+                                          color: Colors.white.withOpacity(0.8)),
                                     ),
                                   ],
                                 ),
@@ -293,8 +290,7 @@ class _GlassMorphismState extends State<GlassMorphism> {
                                         ),
                                       ],
                                     ),
-                                    Image.asset(
-                                        'assets/images/mastercard.png',
+                                    Image.asset('assets/images/mastercard.png',
                                         height: 40),
                                   ],
                                 ),

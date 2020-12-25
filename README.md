@@ -1,6 +1,8 @@
 # glassmorphism_ui
 
-GlassMorphism UI Project
+GlassMorphism UI Project by Mukul ML
+https://www.linkedin.com/in/mukul-ml-a7ba9015b/
+https://github.com/mukulml96/Flutter_PaymentUI-Glassmorphism
 
 ## Getting Started
 
